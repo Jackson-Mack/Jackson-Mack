@@ -1,16 +1,16 @@
-## Hi there 👋
+# G'day mate 🦘
 
-<!--
-**Jackson-Mack/Jackson-Mack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jackson-Mack**, a newbie.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I write code while drinking coffee
+- 💬 Ask me anything about code
+
+## Tech
+
+`Lua` `GraphQL` `Elixir` `Deno`
+
+---
+
+_Vim user._
