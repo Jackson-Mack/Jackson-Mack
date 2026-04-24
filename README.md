@@ -1,16 +1,4 @@
-# G'day mate 🦘
+# Unique Commit for Jackson-Mack
 
-I'm **Jackson-Mack**, a newbie.
-
-## About
-
-- ⚡ Fun fact: I write code while drinking coffee
-- 💬 Ask me anything about code
-
-## Tech
-
-`Lua` `GraphQL` `Elixir` `Deno`
-
----
-
-_Vim user._
+Random data: eeeeeeeeee
+Date: 2026-04-25
